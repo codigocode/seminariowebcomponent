@@ -4,6 +4,6 @@
 
 ## Desarrollo de WebComponent
 
-### Ejemplos
-
 # HTTP://WWW.CODIGOCODE.COM
+
+### contacto@codigocode.com
